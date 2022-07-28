@@ -1,0 +1,150 @@
+body {
+    margin: 0%;
+    text-align: center;
+}
+.header {
+    padding: 35px 48px;
+}
+.logo {
+    margin: 0px 100px;
+    padding: 0px 20px;
+}
+.icon {
+    height: 100%;
+    padding: 13px 20px ;
+    margin-right: 70px;
+    display: inline-block;
+}
+.links {
+    display: inline-block;
+    font-family: cursive;
+}
+ul {
+    display: inline-block;
+    text-align: right;
+    margin-left: 300px;
+}
+li {
+    display: inline-block;
+    margin-right: 50px;
+}
+.link-list {
+    padding: 0px 30px;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+}
+h1 {
+    display: inline-block;
+    font-size: 40px;
+    margin: 0%;
+    font-family: monospace;
+}
+.description {
+    background-image: url("https://thumbor.thedailymeal.com/2m4x3ibbzw-ve6HX3ZR5lteNEFM=/870x565/filters:format(webp)/https://www.thedailymeal.com/sites/default/files/slideshows/1943277/2108053/0.jpg");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0px;
+}
+.description-2 {
+    margin: 0px 28%;
+    padding-right: 150px;
+}
+.description-3 {
+    margin-right: 5%;
+    color: white;
+}
+.description-3 h1 {
+    font-size: 47px;
+}
+.description-3 p{
+    font-size: 30px;
+    height: 3%;
+}
+.description-3 p a {
+    background-color: rgba(255, 255, 255, 1);
+    display: inline-block;
+}
+.about {
+    margin: 7%;
+}
+.about-2 {
+    margin: 8% 0%;
+} 
+.about-2 p {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mo-dt {
+    text-decoration: none;
+    color: black;
+}
+.occasion {
+    display: inline-block;
+    margin-left: 5%;
+    
+}
+.occasion-2 {
+    display: inline-block;
+    background-image: url(https://img.freepik.com/free-vector/light-wave-border-background_53876-78863.jpg?t=st=1656263407~exp=1656264007~hmac=f7c269513014106d93eea1e946a085e164ea6ec8ea24de9a9168e1ea0b2b7499&w=1060);
+    color: white;
+    height: 270px;
+    width: 350px;
+    padding: 3%;
+}
+.occasion-2 h1 {
+    font-size: 37px;
+}
+.oc-dis {
+    font-size: 20px;
+}
+.oc-link {
+    background-color: rgba(255, 255, 255, 1);
+    display: inline-block;
+    color: black;
+    font-size: 22px;
+    padding: 3%;
+}
+.inter {
+    margin: 5% 0%;
+}
+.int-img { 
+    display: inline-block;
+}
+.quote {
+    margin: 5% 0%;
+    font-family: sans-serif;
+}
+.quote p {
+    font-size: 20px;
+}
+.footer {
+    background-color: blueviolet;
+    color: white;
+    padding: 5% 0%;
+}
+.footer-2 {
+    margin: 0% 13%;
+}
+.footer-a {
+    display: inline-block;
+    margin: 0% 5%;
+}
+.footer-a div {
+    padding-bottom: 5%;
+}
+.footer-link {
+    padding: 3% 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.footer-a p {
+    margin-top: 0%;
+}
+.footer-hour {
+    margin-bottom: 3%;
+}
